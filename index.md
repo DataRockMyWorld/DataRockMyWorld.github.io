@@ -3,6 +3,8 @@ layout: page
 title: "Introductory Words"
 ---
 
+[No Planet B](https://www.ugent.be/img/dcom/tijdelijke-beelden/klimaatprotest.jpg)
+
 I love exploring, analyzing and visualing all forms of data.
 On this site, i intend to use data to create awareness about
 climate change and its effect on effect on us.
