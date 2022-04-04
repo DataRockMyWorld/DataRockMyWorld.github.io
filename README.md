@@ -1,12 +1,3 @@
 # Hello World!
 
-This is a great new site on climate.
-p.s. gh-pages rock!
-
-New paragraph
-Not a new paragraph
-
-List:
-- one
-- *two*
-- three
+This website is dedicated to saving the planet one data analysis at a time
