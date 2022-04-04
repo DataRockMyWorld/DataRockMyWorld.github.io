@@ -10,12 +10,16 @@ categories: media
 
 ## Ghana records its highest air temperature in 5 yrs
 
-The month of March and April has historically been the warmest months in Ghana.
+The month of March and April has historically been the warmest months in Ghana, with average temperatures ranging between 31 deg celsius and 26 deg celsius.
 These periods see a lot of outdoor sleeping especially for people in the rural communities who cannot afford
 an aircondition or a fan.
 Even though sleeping outside exposes them to mosquitoes and other insects, the heat presents a far more immidiate threat to the little comfort they can afford.
-Global data from [ECMWF](https://registry.opendata.aws/ecmwf-era5/), shows an average air temperature of 36 degrees celsius for Ghana over the period of March.
-On the 24th of March, at 6pm GMT, the air temperature at 2 meters for the country was:
+
+Over the years however,the air temperature has been steadily increasing leading to the country experiencing some minor heatwaves across some regions, especially the North.
+
+Global data from [ECMWF](https://registry.opendata.aws/ecmwf-era5/), shows an average air temperature of 36 degrees celsius for Ghana over the period of March, a hot month.
+
+On the 24th of March, at 6pm GMT, the air temperature at 2 meters for the country was about 30 degrees celsius:
 
 |time0 | lat | lon | air_temperature_at_2metres(K)| 
 |:---:|:---:|:---:|:---:|
