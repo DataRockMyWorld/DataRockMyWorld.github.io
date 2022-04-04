@@ -27,12 +27,13 @@ On the 24th of March, at 6pm GMT, the air temperature at 2 meters for the countr
 
 ![air temp](https://i.ibb.co/0y5bmTL/Galaxy-5pm-GMT.png)
 
-
-## Global Air Temperature 
-
-The Global Air Temperature for the various hours of 24th March, 2022 can be seen below:
+### Air Temperature at 2 metres for Ghana throught the 24th of March
 
 ![Galaxy_5pm_global_temp](https://i.ibb.co/60g7JgP/Galaxy-airtemp-regional-montage.png)
+
+### Global Air Temperature 
+
+The Global Air Temperature for the various hours of 24th March, 2022 can be seen below:
 
 ![Galaxy_11am_global_temp](https://i.ibb.co/TKR6NVD/Galaxy-global-11am.png)
 
@@ -41,7 +42,7 @@ The Global Air Temperature for the various hours of 24th March, 2022 can be seen
 ![Global_montage](https://i.ibb.co/mysbcrw/Galaxy-global-montage.png)
 
 
-
+Ghanaians should brace themeselves for more uncomfortable heat blazing nights in the coming days.
 
 
 
