@@ -15,7 +15,7 @@ These periods see a lot of outdoor sleeping especially for people in the rural c
 an aircondition or a fan.
 Even though sleeping outside exposes them to mosquitoes and other insects, the heat presents a far more immidiate threat to the little comfort they can afford.
 
-Over the years however,the air temperature has been steadily increasing leading to the country experiencing some minor heatwaves across some regions, especially the North.
+Over the years however,the air temperature has been steadily increasing leading to the country experiencing some heatwaves across some regions, especially the North.
 
 Global data from [ECMWF](https://registry.opendata.aws/ecmwf-era5/), shows an average air temperature of 36 degrees celsius for Ghana over the period of March, a hot month.
 
@@ -28,15 +28,17 @@ On the 24th of March, at 6pm GMT, the air temperature at 2 meters for the countr
 ![air temp](https://i.ibb.co/0y5bmTL/Galaxy-5pm-GMT.png)
 
 
-
 ## Global Air Temperature 
 
-The Global & Regional Air Temperature for the whole period of March can be seen below:
+The Global Air Temperature for the various hours of 24th March, 2022 can be seen below:
 
 ![Galaxy_5pm_global_temp](https://i.ibb.co/60g7JgP/Galaxy-airtemp-regional-montage.png)
 
+![Galaxy_11am_global_temp](https://i.ibb.co/TKR6NVD/Galaxy-global-11am.png)
 
-![Global_air temp](https://i.ibb.co/DgYm5w9/Galaxy-5pm-global.png)
+![Galaxy_7am_global_temp](https://i.ibb.co/nPvcwNM/Galaxy-global-7am.png)
+
+![Global_montage](https://i.ibb.co/mysbcrw/Galaxy-global-montage.png)
 
 
 
