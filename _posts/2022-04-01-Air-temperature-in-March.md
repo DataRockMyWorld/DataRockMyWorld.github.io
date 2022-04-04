@@ -25,17 +25,19 @@ On the 24th of March, at 6pm GMT, the air temperature at 2 meters for the countr
 |:---:|:---:|:---:|:---:|
 | 2022-03-24 17:00:00| 5.5 | -0.5 |303.185|
 
-![air temp](/website2/assets/Galaxy176-[Map_plots_plot].png)
+![air temp](/website2/assets/Galaxy_5pm_GMT.png)
 
 
 
 ## Global Air Temperature 
 The Global & Regional Air Temperature for the whole period of March can be seen below
 
+![Galaxy_5pm_global_temp](/website2/assets/Galaxy_5pm_global.png)
+
+
 ![Global_air temp](/website2/assets/Galaxy109-[plot_airtemp_global_montage].png)
 
 
-![Regional_air temp](/website2/assets/Galaxy109-[plot_airtemp_regional_montage].png)
 
 
 
