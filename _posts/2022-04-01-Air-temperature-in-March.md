@@ -25,7 +25,7 @@ On the 24th of March, at 6pm GMT, the air temperature at 2 meters for the countr
 |:---:|:---:|:---:|:---:|
 | 2022-03-24 17:00:00| 5.5 | -0.5 |303.185|
 
-[air temp](https://ibb.co/zVdvQpg)
+![air temp](https://i.ibb.co/0y5bmTL/Galaxy-5pm-GMT.png)
 
 
 
@@ -33,10 +33,10 @@ On the 24th of March, at 6pm GMT, the air temperature at 2 meters for the countr
 
 The Global & Regional Air Temperature for the whole period of March can be seen below:
 
-![Galaxy_5pm_global_temp](https://ibb.co/dJtXGkP)
+![Galaxy_5pm_global_temp](https://i.ibb.co/60g7JgP/Galaxy-airtemp-regional-montage.png)
 
 
-![Global_air temp](https://ibb.co/4RPngPT)
+![Global_air temp](https://i.ibb.co/DgYm5w9/Galaxy-5pm-global.png)
 
 
 
