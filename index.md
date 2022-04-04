@@ -11,8 +11,4 @@ climate change and its effect on the planet and its species.
 I believe data is key in understanding and mitigating this existential threat
 and i intend to use it as my contribution to the course, both regional and global.**
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+
