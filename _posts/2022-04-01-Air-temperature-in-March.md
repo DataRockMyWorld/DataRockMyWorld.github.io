@@ -23,7 +23,7 @@ On the 24th of March, at 6pm GMT, the air temperature at 2 meters for the countr
 
 |time0 | lat | lon | air_temperature_at_2metres(K)| 
 |:---:|:---:|:---:|:---:|
-| 2022-03-24 17:00:00| 5.5 | -0.5 |303.185|
+| 2022-03-24 17:00:00| 5.5 | -0.5 |303.2|
 
 ![air temp](https://i.ibb.co/0y5bmTL/Galaxy-5pm-GMT.png)
 
