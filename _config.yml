@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "README.md", title: "About Me"}
   - {title: "Portfolio", url:"https://www.linkedin.com/feed/"}
-  - {title: "Blog", file: "blog.md"}
+  - {title: "Articles", file: "article.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jewelbansah@rocketmail.com"}
