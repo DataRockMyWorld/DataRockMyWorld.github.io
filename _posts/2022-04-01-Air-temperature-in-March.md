@@ -11,6 +11,7 @@ categories: media
 ## Ghana records its highest air temperature in 5 yrs
 
 The month of March and April has historically been the warmest months in Ghana, with average temperatures ranging between 31 deg celsius and 26 deg celsius [Wikepedia](https://en.wikipedia.org/wiki/Climate_of_Ghana#cite_note-climate_monitor-5).
+
 These periods see a lot of outdoor sleeping especially for people in the rural communities who cannot afford
 an aircondition or a fan.
 Even though sleeping outside exposes them to mosquitoes and other insects, the heat presents a far more immidiate threat to the little comfort they can afford.
@@ -18,8 +19,7 @@ Even though sleeping outside exposes them to mosquitoes and other insects, the h
 Over the years however,the air temperature has been steadily increasing leading to the country experiencing some heatwaves across some regions, especially the North.
 
 The country's climate projections are in line with global assessments and tend to agree that temperatures will continue to rise [UNFCCC](http://unfccc.int/resource/docs/natc/ghanc3.pdf).
-According to the [UNFCCC]((http://unfccc.int/resource/docs/natc/ghanc3.pdf), the Government of Ghana projects an increase in average annual temperature of up to 0.8 °C (274 K) by 2020 and 5.4 °C (278.55 K) by 2080, across all agro-ecological zones.
-
+According to the [UNFCCC](http://unfccc.int/resource/docs/natc/ghanc3.pdf), the Government of Ghana projects an increase in average annual temperature of up to 0.8 °C (274 K) by 2020 and 5.4 °C (278.55 K) by 2080, across all agro-ecological zones.
 
 Global data from [ECMWF](https://registry.opendata.aws/ecmwf-era5/), shows the highest temperature recorded at Adenta, a populous municipality in the capital Accra, on the 24th of March 2022 was 32.8°C(306.0 K):
 
@@ -29,11 +29,19 @@ Global data from [ECMWF](https://registry.opendata.aws/ecmwf-era5/), shows the h
 
 ![air temp](https://i.ibb.co/0y5bmTL/Galaxy-5pm-GMT.png)
 
-### Air Temperature at 2 metres for Ghana throught the 24th of March
+This is just a little above the maximum average temperature, spaning the last 18 years,for the month of March [Weatherbase](https://www.weatherbase.com/weather/weatherall.php3?s=27456&units=).  
+There are days that temperatures can go up to 35°C (308.2 K).
+
+Whether this high temperatures are due to urbanization or global warming is still up for debate but what is clear is that Government and citizens have to do more beyond lip-service to tackle the issue.
+
+Ghana is becoming increasingly hot and we all have a part to play.
+
+#### Air Temperatures per hour at 2 metres for Adenta (24/03/2022)
 
 ![Galaxy_5pm_global_temp](https://i.ibb.co/60g7JgP/Galaxy-airtemp-regional-montage.png)
 
-### Global Air Temperature 
+
+### Global Air Temperature per hour (24/03/2022)
 
 The Global Air Temperature for some hours of 24th March, 2022 can be seen below:
 
@@ -41,10 +49,9 @@ The Global Air Temperature for some hours of 24th March, 2022 can be seen below:
 
 ![Galaxy_7am_global_temp](https://i.ibb.co/nPvcwNM/Galaxy-global-7am.png)
 
-![Global_montage](https://i.ibb.co/mysbcrw/Galaxy-global-montage.png)
 
 
-Ghanaians should brace themeselves for more uncomfortable heat blazing nights in the coming days.
+
 
 
 
