@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "portfolio"
+title: ""
 ---
 
 An overview of selected static data visualizations, maps and other designs I have produced. 
