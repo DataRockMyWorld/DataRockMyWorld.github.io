@@ -27,7 +27,7 @@ Global data from [ECMWF](https://registry.opendata.aws/ecmwf-era5/), shows the h
 |:---:|:---:|:---:|:---:|
 | 2022-03-24 14:00:00| 5.5 | -0.5 |306.0|
 
-![air temp](https://i.ibb.co/0y5bmTL/Galaxy-5pm-GMT.png)
+![air temp](https://i.ibb.co/ZWS0YjM/14-00-00-plot-regional.png)
 
 This is just a little above the maximum average temperature, spaning the last 18 years,for the month of March according to [Weatherbase](https://www.weatherbase.com/weather/weatherall.php3?s=27456&units=).  
 There are days that temperatures can go up to 35°C (308.2 K).
@@ -38,15 +38,14 @@ Ghana is becoming increasingly hot and we all have a part to play.
 
 #### Air Temperatures per hour for Adenta Municipality (24/03/2022)
 
-![Galaxy_3am_regional_temp](https://i.ibb.co/0Xrq4bt/3am-regional-plot.png)
-
 ![Galaxy_2am_regional_temp](https://i.ibb.co/6W30hYp/2am-regional.png)
+
+![Galaxy_3am_regional_temp](https://i.ibb.co/0Xrq4bt/3am-regional-plot.png)
 
 ![Galaxy_8am_regional_temp](https://i.ibb.co/2sLr8vh/8am-regional-plot.png)
 
 ![Galaxy_1pm_regional_temp](https://i.ibb.co/TTpTQgK/1am-regional-plot.png)
 
-![Galaxy_5pm_regional_temp](https://i.ibb.co/60g7JgP/Galaxy-airtemp-regional-montage.png)
 
 ### Global Air Temperature per hour (24/03/2022)
 
@@ -54,9 +53,9 @@ The Global Air Temperature for some hours of 24th March, 2022 can be seen below:
 
 ![Galaxy_7am_global_temp](https://i.ibb.co/nPvcwNM/Galaxy-global-7am.png)
 
-![Galaxy_11am_global_temp](https://i.ibb.co/TKR6NVD/Galaxy-global-11am.png)
-
 ![Galaxy_9am_global_temp](https://i.ibb.co/PD69KLF/9am-global-plot.png)
+
+![Galaxy_11am_global_temp](https://i.ibb.co/TKR6NVD/Galaxy-global-11am.png)
 
 ![Galaxy_2pm_global_temp](https://i.ibb.co/1KfYFJ7/1pm-global-plot.png)
 
