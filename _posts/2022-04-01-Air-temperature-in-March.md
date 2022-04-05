@@ -18,7 +18,7 @@ Even though sleeping outside exposes them to mosquitoes and other insects, the h
 Over the years however,the air temperature has been steadily increasing leading to the country experiencing some heatwaves across some regions, especially the North.
 
 The country's climate projections are in line with global assessments and tend to agree that temperatures will continue to rise [UNFCCC](http://unfccc.int/resource/docs/natc/ghanc3.pdf).
-According to the [UNFCCC]((http://unfccc.int/resource/docs/natc/ghanc3.pdf), the Government of Ghana projects an increase in average annual temperature of up to 0.8 °C (274 K) by 2020 and 5.4 °C (278.55 K) by 2080, across all agro-ecological zones.
+According to the [UNFCCC](http://unfccc.int/resource/docs/natc/ghanc3.pdf), the Government of Ghana projects an increase in average annual temperature of up to 0.8 °C (274 K) by 2020 and 5.4 °C (278.55 K) by 2080, across all agro-ecological zones.
 
 
 Global data from [ECMWF](https://registry.opendata.aws/ecmwf-era5/), shows the highest temperature recorded at Adenta, a populous municipality in the capital Accra, on the 24th of March 2022 was 32.8°C(306.0 K):
