@@ -39,23 +39,23 @@ All of the visualizations are generated purely with code and tools from Galaxy d
 
 ### ADENTA AIR TEMPERATURE AT 2 METRES (2022/03/24)
 
-[regional_12am](https://i.ibb.co/bvd1Qr1/regional-00.png)
+![regional_12am](https://i.ibb.co/bvd1Qr1/regional-00.png)
 
-[regional_2am](https://i.ibb.co/6W30hYp/2am-regional.png)
+![regional_2am](https://i.ibb.co/6W30hYp/2am-regional.png)
 
-[regional_3am](https://i.ibb.co/0Xrq4bt/3am-regional-plot.png)
+![regional_3am](https://i.ibb.co/0Xrq4bt/3am-regional-plot.png)
 
-[regional_4am](https://i.ibb.co/RSrvfCS/regional-04am.png)
+![regional_4am](https://i.ibb.co/RSrvfCS/regional-04am.png)
 
-[regional_8am](https://i.ibb.co/2sLr8vh/8am-regional-plot.png)
+![regional_8am](https://i.ibb.co/2sLr8vh/8am-regional-plot.png)
 
-[regional_10am](https://i.ibb.co/PZNzfCG/regional-10-am.png)
+![regional_10am](https://i.ibb.co/PZNzfCG/regional-10-am.png)
 
-[regional_1pm](https://i.ibb.co/TTpTQgK/1am-regional-plot.png)
+![regional_1pm](https://i.ibb.co/TTpTQgK/1am-regional-plot.png)
 
 ![regional_2pm](https://i.ibb.co/ZWS0YjM/14-00-00-plot-regional.png)
 
-[regional_12am](https://i.ibb.co/6W30hYp/2am-regional.png)
+![regional_12am](https://i.ibb.co/6W30hYp/2am-regional.png)
 
 
 
