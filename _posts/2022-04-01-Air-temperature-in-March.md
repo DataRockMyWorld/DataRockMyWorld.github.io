@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Outdoor Sleeping](https://thumbs.dreamstime.com/b/african-child-sleeping-outdoor-9056591.jpg)
+![African child sleeping outdoor](https://thumbs.dreamstime.com/b/african-child-sleeping-outdoor-9056591.jpg){#fig:African child sleeping outdoor}
 
 
 ## Ghana records its highest air temperature in 5 yrs
