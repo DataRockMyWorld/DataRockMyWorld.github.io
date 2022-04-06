@@ -4,7 +4,9 @@ title: ""
 ---
 
 An overview of selected static data visualizations, maps and other designs I have produced. 
-All of the visualizations are generated purely with code and tools from Galaxy data analysis platform.
+All of the visualizations are generated purely with code and tools from [Galaxy data analysis platform](https://usegalaxy.eu/) and [ECMWF ERA5 Reanalysis](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) data that we found [online](https://registry.opendata.aws/ecmwf-era5/).
+
+Anyone can use the Galaxy Platform: public servers are free of charge. More information about it can be found [here](https://galaxyproject.org/).
 
 
 
