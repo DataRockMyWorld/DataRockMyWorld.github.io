@@ -12,3 +12,7 @@ I believe data is key in understanding and mitigating this existential threat
 and i intend to use it as my contribution to the course, both regional and global.**
 
 
+## Hey You Climate Scientist, Heard of Galaxy Climate?
+![Galaxy Europe](https://galaxyproject.github.io/static/galaxyproject.jpg)
+
+[Read more](https://www.denbi.de/online-training-media-library/393-introduction-to-usegalaxy-eu)
