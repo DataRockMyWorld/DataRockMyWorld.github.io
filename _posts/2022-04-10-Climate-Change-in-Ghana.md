@@ -10,7 +10,9 @@ categories: media
 Climate change is a global phenomenon of long-term changes in the Earth’s weather pattern.
 The [United Nations Framework Conversion on Climate Change NFCCC](https://unfccc.int/climate-action/introduction-climate-action) defines climate change as:
  
-“a change of climate which is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and which is in addition to natural climate variability observed over comparable time periods.”
+“*a change of climate which is attributed directly or indirectly to human activity 
+that alters the composition of the global atmosphere and which is in addition to 
+natural climate variability observed over comparable time periods.*”
 
 Human activities like industrialization, production, burning, and use of fossil energy, the use of coal for heating, and deforestation drive the release of greenhouse gases into the atmosphere. These gases act like a blanket and trap the sun’s heat around the earth, thereby increasing atmospheric temperatures. This is known as [Global warming]( https://www.nrdc.org/stories/global-warming-101)
 
@@ -39,7 +41,8 @@ Data from the Emergency Event Database: EM-Dat database, shows the country has e
 
 ## Local Climate change initiatives in Ghana
 
-“Ghana acknowledges the importance and effects of Climate Change, and the urgent need to combat it, and we acknowledge equally the importance of protecting our development”
+“*Ghana acknowledges the importance and effects of Climate Change, and the urgent need to combat it, 
+and we acknowledge equally the importance of protecting our development*”
 
 These were the words of the president of Ghana speaking at the UN Climate Change Conference, COP 26, in Glasgow in 2021.
 For a very long time, Climate Change and conversations around it have taken a secondary role in National development issues in Ghana. 
