@@ -13,6 +13,7 @@ and i intend to use it as my contribution to the course, both regional and globa
 
 
 ## Hey You Climate Scientist, Heard of Galaxy Climate?
+
 ![Galaxy Europe](https://galaxyproject.github.io/static/galaxyproject.jpg)
 
-[Read more](https://www.denbi.de/online-training-media-library/393-introduction-to-usegalaxy-eu)
+ [Read more](https://www.denbi.de/online-training-media-library/393-introduction-to-usegalaxy-eu)
