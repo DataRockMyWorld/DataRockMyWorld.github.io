@@ -47,7 +47,7 @@ Drought and reduced rainfall threaten an already erratic and insufficient power 
 
 Data from the [Emergency Event Database]( http://emdat.be/emdat_db/): EM-Dat database, shows the country has endured various natural hazards, including floods, landslides, epidemic diseases, and storms.
 
-[Natural Disaster Table](https://i.ibb.co/V0y2MY2/Screenshot-2022-04-11-at-3-25-30-PM.png)
+![Natural Disaster Table](https://i.ibb.co/V0y2MY2/Screenshot-2022-04-11-at-3-25-30-PM.png)
 
  
 
@@ -126,16 +126,16 @@ This is where [Galaxy Climate]( https://galaxyproject.org/) comes in.
 
 Access to free, open-source data analysis software like Galaxy Climate can support local government in the fight against climate change.
 
-Galaxy is a web-based scientific analysis platform used by a global community of researchers, scientists and software to perform data-intensive research.
+Galaxy is a web-based data analysis platform used by a global community of researchers, scientists and software to perform data-intensive research.
 
-Galaxy climate It is well resourced with documentation, events, codes, tutorials, presentations and data on climate at no cost to the user.
+It is well resourced with documentation, events, codes, tutorials, presentations and data on climate at no cost to the user.
 
 With the help of Galaxy Climate, Government can build local capacity in climate data generation, management and analysis. 
 Climate education is an important tool in the fight against climate change and Galaxy Climate can serve as an instrument through which climate education is made more accessible to the good people of Ghana.
 
 The use of this tool also enables collaboration between local government and the central government through the sharing/publishing of history feature in Galaxy.
 
-Through features like Galaxy’s workflow, we can develop standard methods analysis of certain variables, which can be duplicated across board. 
+Through features like Galaxy’s workflow, we can develop standard methods of analysing certain variables, which can be duplicated across board. 
 
 Through Galaxy, information can be made available to scientific, technical and managerial personnel for climate mitigation.
 
@@ -149,7 +149,7 @@ A beautiful feature I believe can make the Galaxy User Interface more user-frien
 
 A journey of a thousand miles begins with one step. 
 
-The government bears the bulk of the responsibility in the climate fight but I believe Data and an open-source platform like galaxy climate gives us the opportunity to educate, generate, manage, manipulate and analyze climate data to help mitigate the impact of the weather and climate change on a regional scale.
+I believe Data and an open-source platform like galaxy climate gives us the opportunity to educate, generate, manage, manipulate and analyze climate data to help mitigate the impact of weather and climate change on a regional scale.
 
 
 
