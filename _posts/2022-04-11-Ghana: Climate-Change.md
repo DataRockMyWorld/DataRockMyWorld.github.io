@@ -8,37 +8,38 @@ categories: media
 ## What is Climate Change?
 
 Climate change is a global phenomenon of long-term changes in the Earth’s weather pattern.
-
 The United Nations Framework Conversion on Climate Change [UNFCCC](https://unfccc.int)defines climate change as:
- 
-“*a change of climate which is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and which is in addition to natural climate variability observed over comparable time periods.*”
 
-Human activities like industrialization, production, burning of fossil energy, the use of coal for heating, and deforestation drive the release of greenhouse gases into the atmosphere. 
-These gases act like a blanket and trap the sun’s heat around the earth, thereby increasing atmospheric temperatures. 
-This is known as [Global warming]( https://www.nrdc.org/stories/global-warming-101)
+“*a change of climate which is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and which is in addition to natural climate variability observed over comparable time periods*”. 
+
+Human activities like industrialization, production, burning of fossil energy, the use of coal for heating, and deforestation drive the release of greenhouse gases into the atmosphere. These gases act like a blanket and trap the sun’s heat around the earth, thereby increasing atmospheric temperatures. This is known as [Global warming]( https://www.nrdc.org/stories/global-warming-101).  
+
 
 Because the Earth is a system with interconnected processes, the effect of climate change goes beyond global warming. 
 Water scarcity, drought, severe fires, drought, melting polar ice, storms, and declining biodiversity are all results of this phenomenon.
 
 ## Impact of Climate Change in Ghana
 
-![flood in Ghana]( https://ocdn.eu/images/pulscms/YmQ7MDA_/9204c351f37a15ab8219497afdd01e19.jpg "flood in Ghana. [online image] Available from: https://www.pulse.com.gh")
+![flood in Ghana]( https://ocdn.eu/images/pulscms/YmQ7MDA_/9204c351f37a15ab8219497afdd01e19.jpg "flood in Ghana.[online image] Available from: https://www.pulse.com.gh")
 
-The impact of climate change in Ghana is well documented. 
+The impact of climate change in Ghana is well documented.   
 The major drivers of economic growth in Ghana, i.e.  Agriculture, water, energy and mineral resources, are unfortunately, very sensitive to climate change.
 
 Rising sea levels, increasing temperatures, drought, irregular rainfall patterns, and precipitation pose a threat to the country’s bionomics and economic growth.
 
-Ghana’s [sea level]( https://en.wikipedia.org/wiki/Sea_level_rise) has risen at a rate of 2.1 mm per year over the last 30 years. Projections indicate a sea-level rise to 34.5 cm by 2080.
+Ghana’s [sea level]( https://en.wikipedia.org/wiki/Sea_level_rise) has risen at a rate of 2.1 mm per year over the last 30 years. Projections indicate a sea-level rise to 34.5 cm by 2080.  
 The country’s 550 km coastline stretch has been largely affected to varying degrees by the rise in sea level.
-In 2021, the people of Keta, a coastal town in the Volta Region of Ghana woke up to find almost half of their [community submerged]( https://www.france24.com/en/live-news/20211110-almost-4-000-people-displaced-by-tidal-surge-in-ghana) underwater and about 4000 people displaced.
-
+In 2021, the people of Keta, a coastal town in the Volta Region of Ghana woke up to find almost half of their [community submerged]( https://www.france24.com/en/live-news/20211110-almost-4-000-people-displaced-by-tidal-surge-in-ghana) underwater and about 4000 people displaced.  
 Ghana has already lost about 37% of its [coastal land]( https://en.unesco.org/courier/2021-1/ghanas-coastline-swallowed-sea) to erosion and flooding between 2005 and 2017, with this percentage set to increase.
 
-Agriculture, the largest employer in Ghana’s economic sector is the most affected by Climate change. Inconsistent rainfall patterns and extreme temperatures make predictions associated with farming very difficult because it is a rain-dependent venture. 
-Investment in this sector is becoming increasingly risky and expensive because of uncertainty.
+Agriculture, the largest employer in Ghana’s economic sector is the most affected by Climate change. Inconsistent rainfall patterns and extreme temperatures make predictions associated with farming very difficult because it is a rain-dependent venture.   
+Investment in this sector is becoming increasingly risky and expensive.
+
+
 [The June 2010]( https://reliefweb.int/report/ghana/consolidated-report-flood-situation-southern-ghana-june-2010-floods) torrential rains floods demonstrated how climate change can reverse developmental investments and damage infrastructure, with more than a 1,000 homes destroyed, millions of dollars in property losses and the collapse of a bridge linking Ghana and neighboring Togo, cutting off travel between the two West African countries.
-Temperatures in Ghana have risen by approximately [1°C since the 1960s]( https://climateknowledgeportal.worldbank.org/sites/default/files/2021-06/15857-WB_Ghana%20Country%20Profile-WEB.pdf), an average increase of 0.216 °C per decade.
+
+
+Temperatures in Ghana have risen by approximately [1°C since the 1960s](https://climateknowledgeportal.worldbank.org/sites/default/files/2021-06/15857-WB_Ghana%20Country%20Profile-WEB.pdf), an average increase of 0.216 °C per decade.  
 The Northern and inland areas of the country are most affected by the heatwave.
 By mid-century, the country is expected to experience an 18 – 59% increase in the number of “hot” days. 
 These high temperatures have implications for human and animal health, water resources and biodiversity.
@@ -50,12 +51,13 @@ Data from the [Emergency Event Database]( http://emdat.be/emdat_db/): EM-Dat dat
 ![Natural Disaster Table](https://i.ibb.co/V0y2MY2/Screenshot-2022-04-11-at-3-25-30-PM.png)
 
  
-
 ## Climate change initiatives in Ghana
 
-“Ghana acknowledges the importance and effects of Climate Change, and the urgent need to combat it, and we acknowledge equally the importance of protecting our development”
+“Ghana acknowledges the importance and effects of Climate Change, and the urgent need to combat it, and we acknowledge equally
+the importance of protecting our development”
 
-These were the words of the president of Ghana speaking at the UN Climate Change Conference, COP 26, in Glasgow in 2021.
+
+These were the words of the president of Ghana speaking at the UN Climate Change Conference, COP 26, in Glasgow in 2021.  
 For a very long time, Climate Change and conversations around it have taken a secondary role in National development issues in Ghana. 
 Even in the midst of overwhelming evidence of the impact of this existential threat, the Governments response has most often been ad-hoc rather than proactive and strategic.
 
@@ -67,11 +69,12 @@ In 2012, the [National Climate Change Policy]( https://www.un-page.org/files/pub
 It was framed as Ghana’s flagship policy to sustainably respond to climate change. The policy touched on adaptative strategies like governance and coordination, science, technology and innovation, education, and monitoring as areas of top priority for the government.
 The vision was to:
 
-“Ensure a climate-resilient and climate-compatible economy while achieving sustainable development through equitable low-carbon economic growth for Ghana”
+“Ensure a climate-resilient and climate-compatible economy while achieving sustainable development through 
+equitable low-carbon economic growth for Ghana”
 
 
-The adoption of policies such as [National Forest Plantation Development Program] was aimed at restoring the country’s lost forest through deforestation and urbanization. 
-In June 2021, a nationwide campaign through the [Green Ghana project] saw over seven million trees planted with plans to plant a further 20 million next year.
+The adoption of policies such as [National Forest Plantation Development Program](https://www.oldwebsite.fcghana.org/page.php?page=291&section=28&typ=1) was aimed at restoring the country’s lost forest through deforestation and urbanization. 
+In June 2021, a nationwide campaign through the [Green Ghana project](https://www.uncdf.org/article/6857/green-ghana-day) saw over seven million trees planted with plans to plant a further 20 million next year.
 The objective of this policy is to restore the forests and woodlands of the country. These afforestation and restoration policies increase the biological sinks for and stores for carbon, a natural mitigation of GHGs through the sequestration of gases.
 
 According to the [USAID]( https://www.climatelinks.org/sites/default/files/asset/document/GHG%20Emissions%20Factsheet%20Ghana_6-17-16_edited_rev08-18-2016.pdf), 53% of Ghana’s total emissions is driven by changes in forest land. 
@@ -106,9 +109,10 @@ Another part is the lack of representation of the local government in policy-mak
 Within my local community (Adenta), there is a major lack of awareness of Climate change and its impact even among community leaders.
 
 I believe Government representatives have to open dialogues with community leaders about climate change, its impact on their activities, and the importance of Governments adaptation policies.
-The fight against climate change must have a holistic approach (Involving all interested parties). It will be futile for government to draw up policies without involving the local stakeholders. 
+The fight against climate change must have a holistic approach (Involving all interested parties).   
+It will be futile for government to draw up policies without involving the local stakeholders. 
 
-Government must Embrace Climate Data Analysis in their Policies.
+## Government must Embrace Climate Data Analysis in their Policies.
 
 Data Science helps us convert scientific data, historical and real-time, into meaningful insights.
 
