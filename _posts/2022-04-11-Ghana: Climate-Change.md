@@ -152,8 +152,9 @@ The galaxy community can also help Ghana build capacity by training local offici
 A beautiful feature I believe can make the Galaxy User Interface more user-friendly is to introduce a highlight stating the function whenever you hover over a tool in the tool section. 
 
 A journey of a thousand miles begins with one step. 
+The fight against Climate Change starts from our homes and scaled up through our local communities to the national and global level.
 
-I believe Data and an open-source platform like galaxy climate gives us the opportunity to educate, generate, manage, manipulate and analyze climate data to help mitigate the impact of weather and climate change on a regional scale.
+I believe adopting a bespoke open-source data analysis software like Galaxy Climate gives the Ghanaian government a proven scientific avenue to educate, train, manage, manipulate, analyze and model climate data to help mitigate the impact of weather and climate change on a regional and global scale.
 
 
 
