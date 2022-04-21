@@ -24,6 +24,8 @@ Anyone can use the Galaxy Platform: public servers are free of charge. More info
 
 ![Galaxy_5am_global_temp](https://i.ibb.co/5vnz9rC/global-005.png)
 
+![Galaxy_6am_global_temp](/assets/img/6:00.png)
+
 ![Galaxy_8am_global_temp](https://i.ibb.co/9b9ZcQc/global-08png.png)
 
 ![global_7am](https://i.ibb.co/nPvcwNM/Galaxy-global-7am.png)
