@@ -36,19 +36,19 @@ Anyone can use the Galaxy Platform: public servers are free of charge. More info
 
 ![Galaxy_11am_global_temp](https://i.ibb.co/TKR6NVD/Galaxy-global-11am.png)
 
-![Galaxy_12am_global_temp](https://i.ibb.co/6WQH7Qb/Global-12-00.png)
+![Galaxy_12am_global_temp](https://i.ibb.co/JzVb1mR/Global-12-00.png)
 
-![Galaxy_13pm_global_temp](https://i.ibb.co/6WQH7Qb/Global-13-00.png)
+![Galaxy_13pm_global_temp](https://i.ibb.co/S0wFQtf/Global-13-00.png)
 
-![Galaxy_14pm_global_temp](https://i.ibb.co/1KfYFJ7/1pm-global-plot.png)
+![Galaxy_14pm_global_temp](https://i.ibb.co/SdLtMQr/Global-14-00.png)
 
-![Galaxy_15pm_global_temp](https://i.ibb.co/6WQH7Qb/Global-15-00.png)
+![Galaxy_15pm_global_temp](https://i.ibb.co/85qn98n/Global-15-00.png)
 
-![Galaxy_16pm_global_temp](https://i.ibb.co/6WQH7Qb/Global-16-00.png)
+![Galaxy_16pm_global_temp](https://i.ibb.co/5RCwmph/Global-16-00.png)
 
 ![Galaxy_17pm_global_temp](https://i.ibb.co/6WQH7Qb/Global-17-00.png)
 
-![Galaxy_18pm_global_temp](https://i.ibb.co/6WQH7Qb/Global-18-00.png)
+![Galaxy_18pm_global_temp](https://i.ibb.co/PTRRyP9/Global-18-00.png)
 
 
 ### ADENTA AIR TEMPERATURE AT 2 METRES (2022/03/24)
